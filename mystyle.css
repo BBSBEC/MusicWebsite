@@ -92,7 +92,7 @@ img{
 
 }
 .music-controls .fas:hover{
-    color: grey;
+    color: palevioletred;
 }
 .music-controls .fa-play:hover{
     background-color: #f6f6f6;
